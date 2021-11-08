@@ -1,0 +1,8 @@
+git clone https://github.com/M-M-SBakura/MolnarDaniel.git
+cd Molnardaniel (MolnarDaniel hez adja)
+git add Teszt.html (hozzá adja MolnarDaniel hez)
+git add valaszok.txt  (hozzá adja MolnarDaniel hez) 
+git add parancsok.txt  (hozzá adja MolnarDaniel hez)
+git commit -M (commentet élehet irni)
+git clone (le klonoza a  anyagokat)
+git push -u (fel töltés)

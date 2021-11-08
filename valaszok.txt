@@ -1,0 +1,5 @@
+1.A gitett ara használják hogy feltöltsenek code okat vagy egyéb fáljlokat ezt lelehet tölteni és fel is.
+2.mind kettő ugyan olyan jó ember föggö ki mit használ
+3.Megosztott mert csak ugy lehet egy csapat code-jába bele nyulni ha megosztják veled 
+4.A Repository gyakorlatilag a projekt amibe bele lehet nyulni megosztani stb
+5.Nem tudom
